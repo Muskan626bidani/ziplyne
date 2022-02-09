@@ -15,7 +15,7 @@ export default function Testimonials() {
               />
               <div className="testi-text">
                 <h5>Joanna K</h5>
-                <p> Consultant & advisor</p>
+                <p> --Consultant & advisor</p>
                 <h2>
                   Highly poweful and yet ease to use tool to create in- app
                   tutorial
@@ -27,7 +27,7 @@ export default function Testimonials() {
                   easily build an in-app guide tool from the bottom up,
                   including design, content, look and feel, and much more.
                 </p>
-                <h3>What do you dislike?</h3>
+                <h4>What do you dislike?</h4>
                 <p>
                   There is nothing that I dislike about the tool as of right
                   now! It's very easy to use and haven't had any issues with the
@@ -46,7 +46,7 @@ export default function Testimonials() {
 
               <div className="testi-text">
                 <h5>Arunabh A </h5>
-                <p> product specialist</p>
+                <p> --product specialist</p>
                 <h2>Smart and Straight Forward</h2>
                 <h4>What do you like best?</h4>
                 <p>
@@ -58,7 +58,7 @@ export default function Testimonials() {
                     of the features one might need. The only thing that can be
                     improved is the Popup cards UI.
                   </p>
-                </p>{" "}
+                </p>
               </div>
             </div>
           </Carousel.Item>
@@ -71,7 +71,7 @@ export default function Testimonials() {
 
               <div className="testi-text">
                 <h5> Aman Sharma </h5>
-                <p>Executive Sponsor in Marketing and Advertising</p>
+                <p>--Executive Sponsor in Marketing and Advertising</p>
                 <h2>Great Ux-improvement</h2>
                 <h4>What do you like best?</h4>
                 <p>

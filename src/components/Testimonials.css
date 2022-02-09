@@ -13,6 +13,9 @@
     /* box-shadow: 2px; */
 
 }
+.testi-text h4,h5,h2{
+    color: #5d3ab7;
+}
 .carousel-control-next-icon {
 background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjQcBZ8iFPxM4PZtdfANn-rdORZH22eTIkf6OB94WD5O2lOttQV_16SCSqmuxeAA3cU4&usqp=CAU");
 
@@ -48,6 +51,7 @@ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4K
     .testi img{
         width:100%;
         height: 300px;
+        margin:10px;
        align-self: center;
     }
 }
