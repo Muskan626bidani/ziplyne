@@ -1,17 +1,25 @@
 .App {
   text-align: center;
 }
+.Main_div{
+background-color: #5d3ab7;
+padding:10px;
+display: flex;
 
-.App-logo {
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+} */
+@media (min-width:310px) and (max-width:1024px){
+  .Main_div{ display: flex;
+  flex-direction: column;
+  
   }
 }
+
+
 
 .App-header {
   background-color: #282c34;
