@@ -10,29 +10,29 @@ export default function Guideline() {
         achieve your desired Enterprise software outcomes.
       </p>
 
-      <h3>
+      <h4>
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eo_circle_purple_white_checkmark.svg/2048px-Eo_circle_purple_white_checkmark.svg.png"
           class="check-box"
         ></img>
         Increase user adoption across your enterprise applications
-      </h3>
-      <h3>
+      </h4>
+      <h4>
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eo_circle_purple_white_checkmark.svg/2048px-Eo_circle_purple_white_checkmark.svg.png"
           class="check-box"
         ></img>
         Automate user onboarding and training via our in-app technology
-      </h3>
+      </h4>
 
-      <h3>
+      <h4>
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eo_circle_purple_white_checkmark.svg/2048px-Eo_circle_purple_white_checkmark.svg.png"
           class="check-box"
         ></img>
         Give your users the ultimate low touch self-service experience 
         they have been looking for
-      </h3>
+      </h4>
     </div>
   );
 }
