@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ziplyne/static/css/main.786142c4.css",
+    "main.js": "/ziplyne/static/js/main.de6d03b4.js",
+    "static/js/787.69fedeca.chunk.js": "/ziplyne/static/js/787.69fedeca.chunk.js",
+    "static/media/Ziplynelogo.webp": "/ziplyne/static/media/Ziplynelogo.750ad4286a6ccb6bf317.webp",
+    "index.html": "/ziplyne/index.html",
+    "main.786142c4.css.map": "/ziplyne/static/css/main.786142c4.css.map",
+    "main.de6d03b4.js.map": "/ziplyne/static/js/main.de6d03b4.js.map",
+    "787.69fedeca.chunk.js.map": "/ziplyne/static/js/787.69fedeca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.786142c4.css",
+    "static/js/main.de6d03b4.js"
+  ]
+}
