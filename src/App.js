@@ -12,8 +12,7 @@ function App() {
     <div className='Main_div'>
 <Guideline/>
 
-    
-      
+         
  <Form/></div>
  <Testimonials/>
     </div></>
